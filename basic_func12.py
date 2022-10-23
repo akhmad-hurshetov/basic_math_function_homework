@@ -1,3 +1,6 @@
+def main(a):
+
+    return round(a, 2)
 # Create a function called main.
 # Create function argument a.
 # Return the value of a.
